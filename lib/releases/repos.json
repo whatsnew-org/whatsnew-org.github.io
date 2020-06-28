@@ -1,0 +1,16 @@
+{
+  "repos": [
+    {
+      "owner": "electron",
+      "repo": "electron"
+    },
+    {
+      "owner": "nodejs",
+      "repo": "node"
+    },
+    {
+      "owner": "mui-org",
+      "repo": "material-ui"
+    }
+  ]
+}
